@@ -1,0 +1,5 @@
+res://World/world.tscn
+res://World/end_game.tscn
+res://Items/Collectable/collectable.tscn
+res://global.tscn
+res://Items/Totems/totem.tscn
